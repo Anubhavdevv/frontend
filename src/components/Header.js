@@ -24,7 +24,7 @@ function Header() {
                     <Text fontSize="6xl" fontWeight="bold" bgGradient="linear(to-r, cyan.400, blue.500, purple.600)" bgClip='text'>Anubhav</Text>
                     <Text color={isDark ? "gray.200" : "gray.500"}>I'm Open Source and Tech Enthusiast.</Text>
                     <Button mt={8} colorScheme="blue" onClick={() =>
-                        window.open("https://drive.google.com/drive/my-drive")
+                        window.open("https://drive.google.com/file/d/1GXHI7yajhkBQgRwd8Gs2p_5YMG3zStWr/view?usp=sharing")
                     }>Hire Me</Button>
 
                 </Box>
