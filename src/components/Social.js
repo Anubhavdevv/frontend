@@ -8,7 +8,7 @@ import VisuallyHidden from '@chakra-ui/visually-hidden';
 function header() {
     return (
         <div>
-            
+            <Heading m={[15, 95]}>Projects</Heading>
         </div>
     )
 }
